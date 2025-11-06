@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ <html lang="en">
+    
+
+<head>
+    <meta charset="UTF-8">
+    <meta >
+    <title></title>
+<body>
+    
+<h1>My First Project :</h1>
+<h2>The Start:</h2>
+<ol>
+<li>Idea</li>
+<li>Action</li>
+<li>TRY</li>
+<li>Fail</li>
+<li>Again (fail)</li>
+<li>So many loses but one win can change everything</li>
+</ol>
+<h3>The Goal of this project:</h3>
+<p>Iam Trying to retained what i've learn.</p>
+<p>thanks for your attention 💙.</p>
+
+</body>
+
+
+</head>
+
+
+
+
+
+</html>
